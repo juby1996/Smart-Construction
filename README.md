@@ -35,7 +35,7 @@ The core informational architecture and responsive layout are fully implemented.
 ## 📸 Application Preview
 ### **Landing Page View**
 Screenshot 2026-06-11 141042.png
-![Smart Construction Landing Page](Screenshot%202026-06-09%20213058.png)().
+![Smart Construction Landing Page](Screenshot%202026-06-09%20213058.png).
 ![Smart Construction Landing Page](Screenshot%2026-06-11%141042.png)
 
 Files for the Smart Construction application
