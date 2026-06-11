@@ -32,6 +32,17 @@ The core informational architecture and responsive layout are fully implemented.
 
 ---
 
+## 📸 Application Preview
+### **Landing Page View**
+![Landing page](Screenshot 2026-06-09 213058.png)
+![Landing page](Screenshot 2026-06-09 213058.png)
+
+Files for the Apex Job portal application
+
+
+
+---
+
 ## 📦 Local Installation & Setup
 
 To run this project locally on your machine, follow these steps:
